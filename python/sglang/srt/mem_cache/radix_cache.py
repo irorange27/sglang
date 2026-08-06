@@ -827,3 +827,4 @@ if __name__ == "__main__":
             MatchPrefixParams(key=RadixKey(token_ids=array("q", [1, 2, 3, 13, 14])))
         )
     )
+    print("Using new sglang code...")
